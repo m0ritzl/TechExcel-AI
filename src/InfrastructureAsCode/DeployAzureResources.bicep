@@ -9,7 +9,7 @@ param deployments array = [
   {
     name: 'gpt-4o'
     capacity: 40
-    version: '2024-05-13'
+    version: '2024-08-06'
   }
   {
     name: 'text-embedding-ada-002'
